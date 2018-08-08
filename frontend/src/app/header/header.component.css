@@ -1,0 +1,28 @@
+header {
+    padding: 20px;
+    border-bottom: 1px solid #081215;
+    background: #0f2327;
+      
+    }
+    h2,p, div {
+        color: white;
+        margin-top: 0ch;
+    }
+
+    nav {
+        background: #0f2327;
+        border: none;
+
+    }
+
+    .info {
+      margin-left: 250px;
+
+    }
+    .space {
+        width:200px;
+    }
+.dropdown-menu {
+    width:10px;
+    font-size: 11px;
+}
